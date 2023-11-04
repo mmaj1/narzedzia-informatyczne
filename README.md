@@ -28,3 +28,4 @@ int main(){
 | 02.11.2023 | 14:45 |
 
 ![cat](animals/cat.avif)
+![fox](animals/fox.jpg)
