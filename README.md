@@ -30,3 +30,7 @@ int main(){
 ![cat](animals/cat.avif)
 ![fox](animals/fox.jpg) 
 to jest lis
+
+# dodane przez kolegę:
+![dog](/animals/dog.jpg)
+to jest pies
